@@ -19,21 +19,16 @@ All first authors should utilize ChatGPT to enhance their respective tutorials. 
 **Usage Prompt for ChatGPT**:
 
 > You are a technical writing expert in writing software tutorials. We're preparing to release a new version of our software and we need to update the README. Here's the current README. Please note down the changes required in markdown and embed the text in code chunks, so it won't convert to HTML in the assistant. Please review and provide a better version of the tutorial with any changes you think necessary to be added in a tutorial. After you've made the changes, please share the updated README in a markdown embedded in code chunks format.
-
-
 Current README:
-```markdown
-Paste your tutorial within here.
-```
+{Paste your tutorial within here.}
 
 
 ### Step 2: Obtain Suggestions for Additional Sections
 
 After obtaining a refined version of the tutorial, it's important to identify any missing sections or areas of improvement. For this, prompt ChatGPT as:
 
-```markdown
-can you provide suggestions of what are missing to be added in the tutorial?
-```
+>can you provide suggestions of what are missing to be added in the tutorial?
+
 
 To demonstrate, here's an example of what ChatGPT suggested for improvements in the MarsGT README:
 
